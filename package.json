@@ -1,0 +1,23 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "MySQL homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huyy49/mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huyy49/mysql/issues"
+  },
+  "homepage": "https://github.com/huyy49/mysql#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
