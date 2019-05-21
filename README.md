@@ -17,7 +17,7 @@ This Node.js & MySQL module will first show the home page with all products that
     ![alt text](https://github.com/huyy49/nodemysql/blob/master/images/order_second.png)
   * Insufficient quantity.
     ![alt text](https://github.com/huyy49/nodemysql/blob/master/images/insufficient_quantity.png)
-  * Quit Module.
+  * Quit Module. <br />
     ![alt text](https://github.com/huyy49/nodemysql/blob/master/images/quit.png)
 
 ### Required Node API/Packages
