@@ -23,6 +23,7 @@ This Node.js & MySQL module will first show the home page with all products that
 ### Required Node API/Packages
   * inquirer
   * mysql
+  * cli-table2
 
 ### Screenshots
 Screenshots can be found in the "images" folder.
